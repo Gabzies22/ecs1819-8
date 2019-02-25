@@ -1,0 +1,19 @@
+img
+{
+    width:500px
+    
+}
+body
+{
+    text-align:center;
+    background-color:#9090ff;
+    color:#ffff6c;
+    font-family:cursive;
+}
+div{
+    border: 25px #91274f;
+    padding:25px;
+    text-align:center;
+    border-style:solid;
+    border-radius:45px;
+}
