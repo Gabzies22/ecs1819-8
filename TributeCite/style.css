@@ -2,7 +2,10 @@
  font-family: 'Kaushan Script', cursive;
  color: #893BFF;
  text-align: center;
-
+ border-style: solid;
+ border-color:teal;
+ border-radius: 30px;
+ border-width: 25px;
 }
 .h2{
  text-align:center;
