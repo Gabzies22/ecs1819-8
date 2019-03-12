@@ -1,8 +1,12 @@
-.navbar-nav{
-    text-align:center;font-family: 'Teko', sans-serif;
-    }
+.navbar {
+    font-family: 'Satisfy', cursive;;
+    color: blue !important;
+    text-align: center !important;
+    background-color: #03F2CE !important;
+    font-size: 25px;
+}
 body{
-    background-image: url(images/background.jpg)
+    background-image: url(images/raindrops.jpg)
 }
 .jumbotron{
     height: 280px; text-align:center; font-family:'Courgette', cursive;
@@ -22,8 +26,9 @@ img {
     float: left;
     margin-left:500px;
 }
-.carousel-indicators{
-    float: left;
-    margin-left:200px;
-    margin-bottom:400px;
+.carousel-inner img{
+    width: 500px;
+}
+.carousel-inner img{
+center
 }
