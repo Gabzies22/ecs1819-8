@@ -4,6 +4,7 @@
     text-align: center !important;
     background-color: #03F2CE !important;
     font-size: 25px;
+    text-shadow: 0 0 3px #FF0000;
 }
 body{
     background-image: url(images/raindrops.jpg)

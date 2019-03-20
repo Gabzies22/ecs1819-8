@@ -10,3 +10,11 @@
 .h2{
  text-align:center;
 }
+.navbar {
+    font-family: 'Satisfy', cursive;;
+    color: blue !important;
+    text-align: center !important;
+    background-color: #03F2CE !important;
+    font-size: 25px;
+    text-shadow: 0 0 3px #FF0000;
+}

@@ -1,0 +1,18 @@
+.navbar {
+    font-family: 'Satisfy', cursive;
+    color: blue;
+    text-align: center;
+    background-color: #03F2CE;
+    font-size: 25px;
+    text-shadow: 0 0 3px #FF0000;
+}
+body{
+    background-image: url(images/blues.jpg)
+}
+.jumbotron{
+    background:linear-gradient(#000000, #203a43, #0083b0);
+    text-align:center;
+    color:white;
+    font-family: 'satisfy', cursive;
+    text-shadow: 0 0 10px #0F00FF;
+}
