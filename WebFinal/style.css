@@ -1,8 +1,8 @@
 .navbar {
     font-family: 'Satisfy', cursive;;
-    color: blue !important;
-    text-align: center !important;
-    background-color: #03F2CE !important;
+    color: blue;
+    text-align: center;
+    background-color: #03F2CE;
     font-size: 25px;
     text-shadow: 0 0 3px #FF0000;
 }
@@ -32,4 +32,10 @@ img {
 }
 .carousel-inner img{
 center
+}
+.dropdown{
+    color:white;
+}
+.card-text{
+    font-family:'Lobster', cursive;
 }

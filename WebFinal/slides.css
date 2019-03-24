@@ -14,5 +14,15 @@ body{
     text-align:center;
     color:white;
     font-family: 'satisfy', cursive;
-    text-shadow: 0 0 10px #0F00FF;
+    text-shadow: 0 0 10px #0F00FF
+}
+.h4{
+    color:white;
+    text-align:center;
+}
+.column1{
+    transform: rotate(90deg)
+}
+.p1{
+    font-family: 'satisfy', cursive;
 }
